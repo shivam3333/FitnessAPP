@@ -1,0 +1,15 @@
+<div data-include="layout" data-extract>
+	<div data-fragment="content">
+		<h1>#{root.message}</h1>
+		<p>
+			Something went wrong, please make sure you have landed here from a correct page/link. If the problem persists, kindly contact app administrator
+		</p>
+		<div data-if="root.error">
+			<h3>DEBUGGING INFO</h3>
+			<p>
+				#{root.error.stack | break}
+			</p>
+		</div>
+
+	</div>
+</div>

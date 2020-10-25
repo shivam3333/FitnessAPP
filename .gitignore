@@ -1,0 +1,17 @@
+# dependencies
+config/index.json
+config/dbconfig.json
+s3_config.json
+node_modules
+node_modules/*
+tmp
+tmp/*
+uploads
+uploads/*
+public/images/*
+# misc
+.DS_Store
+
+.env
+newrelic_agent.log
+

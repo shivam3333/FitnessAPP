@@ -1,0 +1,1166 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chi",
+				"childs"
+			],
+			[
+				"work",
+				"workoutId"
+			],
+			[
+				"wor",
+				"workoutId"
+			],
+			[
+				"_load",
+				"_loadChilds"
+			],
+			[
+				"view",
+				"viewWorkout"
+			],
+			[
+				"open",
+				"opened"
+			],
+			[
+				"tr",
+				"treeData"
+			],
+			[
+				"load",
+				"loadWorkouts"
+			],
+			[
+				"Work",
+				"WorkoutCtrl"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"step",
+				"steps"
+			],
+			[
+				"fi",
+				"files"
+			],
+			[
+				"step_im",
+				"step_images"
+			],
+			[
+				"e",
+				"exer"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"ex",
+				"exer"
+			],
+			[
+				"step_des",
+				"step_descriptions"
+			],
+			[
+				"has",
+				"has_steps"
+			],
+			[
+				"form",
+				"form_fields"
+			],
+			[
+				"exer",
+				"exercise-step"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"meq",
+				"mequip_ids"
+			],
+			[
+				"_lo",
+				"_loadWorkout0"
+			],
+			[
+				"main",
+				"main_equipments"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"me",
+				"mequip_ids"
+			],
+			[
+				"mo",
+				"model_equip"
+			],
+			[
+				"bo",
+				"body_types"
+			],
+			[
+				"mode",
+				"model_equip"
+			],
+			[
+				"ma",
+				"main_equipments"
+			],
+			[
+				"_",
+				"_loadWorkout1"
+			],
+			[
+				"user",
+				"userinfo"
+			],
+			[
+				"te",
+				"textarea	Tag"
+			],
+			[
+				"wo",
+				"workoutdays"
+			],
+			[
+				"pars",
+				"parseInt"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"ca",
+				"calculateWorkoutTime"
+			],
+			[
+				"gap",
+				"gap_between_sets"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"prp",
+				"prototype"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"send",
+				"sendError"
+			],
+			[
+				"sen",
+				"sendSuccess"
+			],
+			[
+				"mod",
+				"model_workout"
+			],
+			[
+				"model",
+				"model_workout"
+			],
+			[
+				"w",
+				"wModel"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"des",
+				"destPath"
+			],
+			[
+				"src",
+				"srcFiles"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"save",
+				"saveWorkout"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"exe",
+				"exer"
+			],
+			[
+				"succ",
+				"successfully"
+			],
+			[
+				"defa",
+				"defaultsDeep"
+			],
+			[
+				"fa",
+				"facebook_id"
+			],
+			[
+				"upda",
+				"update"
+			],
+			[
+				"pa",
+				"pass"
+			],
+			[
+				"register",
+				"registered"
+			],
+			[
+				"mai",
+				"mailer"
+			],
+			[
+				"o",
+				"ObjectID"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"new",
+				"new_pass"
+			],
+			[
+				"O",
+				"ObjectID"
+			],
+			[
+				"up",
+				"updateOne"
+			],
+			[
+				"cu",
+				"current_pass"
+			],
+			[
+				"is",
+				"isUser"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"moe",
+				"model_user"
+			],
+			[
+				"ver",
+				"verified"
+			],
+			[
+				"ve",
+				"verified"
+			],
+			[
+				"se",
+				"sendError"
+			],
+			[
+				"sn",
+				"sendError"
+			],
+			[
+				"de",
+				"device_token"
+			],
+			[
+				"ge",
+				"generatePassword"
+			],
+			[
+				"use",
+				"userinfo"
+			],
+			[
+				"pl",
+				"plan_id"
+			],
+			[
+				"eq",
+				"equip"
+			],
+			[
+				"eqi",
+				"equip"
+			],
+			[
+				"plan",
+				"plansController"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"crop",
+				"crop_data"
+			],
+			[
+				"ap",
+				"app_logo"
+			],
+			[
+				"train",
+				"trainerplan"
+			],
+			[
+				"exerc",
+				"exercise"
+			],
+			[
+				"tra",
+				"trainerplan"
+			],
+			[
+				"body",
+				"bodypart"
+			],
+			[
+				"equi",
+				"equipment"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"video",
+				"videos"
+			],
+			[
+				"co",
+				"cover_image"
+			],
+			[
+				"tot",
+				"total_thumbs"
+			],
+			[
+				"path",
+				"path_info"
+			],
+			[
+				"availableE",
+				"availableMainEquipments"
+			],
+			[
+				"drop",
+				"dropIn"
+			],
+			[
+				"dev",
+				"device_type"
+			],
+			[
+				"noti",
+				"notifyAndroid"
+			],
+			[
+				"devi",
+				"device_token"
+			],
+			[
+				"device",
+				"device_type"
+			],
+			[
+				"xmpp",
+				"xmpp_user"
+			],
+			[
+				"xmp",
+				"xmpp_db"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"traine",
+				"trainerplans"
+			],
+			[
+				"trainer",
+				"trainerplan"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"bas",
+				"baseFolder"
+			],
+			[
+				"field",
+				"fieldname"
+			],
+			[
+				"f",
+				"fieldname"
+			],
+			[
+				"exercises",
+				"exercisestrength"
+			],
+			[
+				"pos",
+				"postgre"
+			],
+			[
+				"start",
+				"startScroll"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"get",
+				"getChildAt"
+			],
+			[
+				"pla",
+				"platforms"
+			],
+			[
+				"sc",
+				"scrolling"
+			],
+			[
+				"gr",
+				"ground"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 3664,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/admin.js",
+			"settings":
+			{
+				"buffer_size": 691,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/workoutday.js",
+			"settings":
+			{
+				"buffer_size": 898,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/trainerplan.js",
+			"settings":
+			{
+				"buffer_size": 799,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/index.js",
+			"settings":
+			{
+				"buffer_size": 43545,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/exercisestrength.js",
+			"settings":
+			{
+				"buffer_size": 751,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "copy_nutrition_plan.js",
+			"settings":
+			{
+				"buffer_size": 4915,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wegile/Documents/shivam/fitnessapp/fitness_trainer_app_web/routes/api/user/index.js",
+		"/Users/wegile/Documents/shivam/fitnessapp/fitness_trainer_app_web/routes/api/trainer/index.js",
+		"/Users/wegile/Documents/shivam/fitnessapp/fitness_trainer_app_web/routes/api/admin/index.js",
+		"/Users/wegile/Documents/shivam/fitnessapp/fitness_trainer_app_web/models/trainer.js",
+		"/Users/wegile/Documents/shivam/fitnessapp/fitness_trainer_app_web/models/bodypart.js",
+		"/Users/wegile/Documents/shivam/fitnessapp/fitness_trainer_app_web/models/equipment.js",
+		"/Users/wegile/Documents/shivam/fitnessapp/fitness_trainer_app_web/routes/api/index.js",
+		"/Users/wegile/Documents/shivam/fitnessapp/fitness_trainer_app_web/mailer.js",
+		"/Users/wegile/Documents/shivam/fitnessapp/fitness_trainer_app_web/models/user.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/theme/theme.module.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/exercises/editExercise.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/trainers/trainers.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/exercises/addExercise.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/equipments/equipments.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/exercises/exercises.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/strengths/strengths.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/trainers/trainers.module.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/trainers/viewTrainer.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/app.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/strengths/strengths.module.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/plans/viewPlan.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/plans/plans.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/equipments/editEquipment.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/plans/viewWorkoutday.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/plans/plans.module.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/exercises/exercises.module.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/equipments/equipments.module.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/bodyparts/editBodypart.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/trainers/addTrainer.html",
+		"/Users/sandeepsingh/js/frontapp/src/sass/main.scss",
+		"/Users/sandeepsingh/js/frontapp/src/app/theme/components/pageTop/pageTop.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/theme/components/contentTop/contentTop.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/workouts/viewWorkoutEx.html",
+		"/Users/sandeepsingh/js/frontapp/src/not_in_use/components/tree/treeCtrl.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/workouts/workouts.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/bodyparts/bodyparts.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/bodyparts/bodyparts.module.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/equipments/addEquipment.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/workouts/addWorkout.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/theme/directives/ngFileSelect.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/bodyparts/addBodypart.html",
+		"/Users/sandeepsingh/macos/file_encryption_client/ECS-Qt/ECS.pro",
+		"/Users/sandeepsingh/wegile_projects/alertboot/AlertBoot/ecs/ECS-Qt/Makefile",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/workouts/workouts.module.js",
+		"/Users/sandeepsingh/js/frontapp/bower_components/ng-js-tree/ngJsTree.js",
+		"/Users/sandeepsingh/js/fitness_app/models/workout.js",
+		"/Users/sandeepsingh/js/fitness_app/views/email/email_confirm_template.html",
+		"/Users/sandeepsingh/js/fitness_app/views/email/register_template.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/workouts/viewWorkout.html",
+		"/Users/sandeepsingh/js/helixapp/app.js",
+		"/Users/sandeepsingh/js/fitness_app/routes/api/user/index.js",
+		"/var/folders/6t/mggw46hd6_dg4_sv6lymj9_m0000gp/T/fz3temp-1/ApiController.php",
+		"/Users/sandeepsingh/macos/file_encryption_client/ECS-Qt/Client/moc_LoginWindow.cpp",
+		"/Users/sandeepsingh/js/frontapp/bower.json",
+		"/Users/sandeepsingh/js/frontapp/bower.json.orig",
+		"/Users/sandeepsingh/js/frontapp/src/not_in_use/components/tree/tree.html",
+		"/Users/sandeepsingh/js/frontapp/src/not_in_use/components/tree/tree.module.js",
+		"/Users/sandeepsingh/js/frontapp/src/sass/common.scss",
+		"/Users/sandeepsingh/js/frontapp/src/sass/app/_grid.scss",
+		"/Users/sandeepsingh/js/frontapp/src/sass/app/_chartsPage.scss",
+		"/Users/sandeepsingh/js/frontapp/src/sass/app/_iconsPage.scss",
+		"/Users/sandeepsingh/js/frontapp/src/sass/app/_form.scss",
+		"/Users/sandeepsingh/users.sql",
+		"/Users/sandeepsingh/wegile_projects/alertboot/AlertBoot/ecs/ECS-Qt/ECS.pro",
+		"/Users/sandeepsingh/wegile_projects/fitness/email_template.html",
+		"/Users/sandeepsingh/js/fitness_app/routes/api/trainer/index.js",
+		"/Users/sandeepsingh/macos/file_encryption_client/setup/Mac/make-ecs-package.sh",
+		"/Users/sandeepsingh/macos/file_encryption_client/ECS-Qt/Makefile",
+		"/Users/sandeepsingh/wegile_projects/alertboot/AlertBoot/ecs/ECS-Qt/EcsVirtualDrive/EcsVirtualDrive.pro",
+		"/Users/sandeepsingh/macos/file_encryption_client/setup/Mac/make-all.sh",
+		"/Users/sandeepsingh/js/fitness_app/package.json",
+		"/Users/sandeepsingh/Downloads/feed.php",
+		"/Users/sandeepsingh/js/frontapp/src/index.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/pages.module.js",
+		"/Users/sandeepsingh/js/frontapp/gulpfile.js",
+		"/Users/sandeepsingh/js/frontapp/gulp/scripts.js",
+		"/Users/sandeepsingh/js/fitness_app/config/index.json",
+		"/Users/sandeepsingh/js/frontapp/src/app/theme/services/preloader.js",
+		"/Users/sandeepsingh/js/fitness_app/public/javascripts/app/app.js",
+		"/Users/sandeepsingh/js/fitness_app/db.js",
+		"/Users/sandeepsingh/js/fitness_app/config/dbconfig.json",
+		"/Users/sandeepsingh/js/fitness_app/info.txt",
+		"/Users/sandeepsingh/js/frontapp/app/theme/directives/ngFileSelect.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/profile/profile.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/profile/profile.module.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/profile/profileModal.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/profile/ProfileModalCtrl.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/profile/ProfilePageCtrl.js",
+		"/Users/sandeepsingh/Downloads/GreenHotels.pem",
+		"/private/var/folders/6t/mggw46hd6_dg4_sv6lymj9_m0000gp/T/fz3temp-1/import_products.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/js.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/dashboard/dashboardCalendar/dashboardCalendar.directive.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/dashboard/dashboardCalendar/dashboardCalendar.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/dashboard/dashboardCalendar/DashboardCalendarCtrl.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/dashboard/dashboard.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/dashboard/dashboard.module.js",
+		"/Users/sandeepsingh/js/frontapp/src/sass/app/_dashboard.scss",
+		"/Users/sandeepsingh/js/frontapp/bower_components/jquery-ui/jquery-ui.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/components/tree/tree.html",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/components/tree/tree.module.js",
+		"/Users/sandeepsingh/js/frontapp/src/app/pages/components/tree/treeCtrl.js",
+		"/private/var/folders/6t/mggw46hd6_dg4_sv6lymj9_m0000gp/T/fz3temp-1/Users.php",
+		"/private/var/folders/6t/mggw46hd6_dg4_sv6lymj9_m0000gp/T/fz3temp-1/database.php",
+		"/Users/sandeepsingh/Downloads/bobwatches.info",
+		"/Users/sandeepsingh/js/phaser/resources/tutorials/minijump/tttt",
+		"/Users/sandeepsingh/js/phaser/resources/tutorials/minijump/index.html",
+		"/Users/sandeepsingh/js/phaser/resources/tutorials/minijump/game.html",
+		"/Users/sandeepsingh/gl.c",
+		"/Users/sandeepsingh/js/fitness_app/models/bodypart.js",
+		"/Users/sandeepsingh/js/fitness_app/models/test.js",
+		"/Users/sandeepsingh/js/fitness_app/models/index.js",
+		"/Users/sandeepsingh/js/fitness_app/.gitignore",
+		"/Users/sandeepsingh/js/mediagallery/client/mediagallery.html",
+		"/Users/sandeepsingh/js/mediagallery/client/css/mediagallery.css",
+		"/Users/sandeepsingh/js/fitness_app/models/trainer.js",
+		"/Users/sandeepsingh/js/fitness_app/models/user.js",
+		"/Users/sandeepsingh/js/fitness_app/routes/users.js",
+		"/Users/sandeepsingh/js/fitness_app/routes/api/index.js",
+		"/Users/sandeepsingh/js/fitness_app/routes/index.js",
+		"/Users/sandeepsingh/js/fitness_app/router.js",
+		"/Users/sandeepsingh/js/fitness_app/routes/api/admin/index.js",
+		"/Users/sandeepsingh/js/fitness_app/models/admin.js",
+		"/Users/sandeepsingh/js/fitness_app/routes/api/app/index.js",
+		"/Users/sandeepsingh/js/fitness_app/routes/swati/sandeep.js",
+		"/Users/sandeepsingh/js/fitness_app/routes/sandeep.js",
+		"/Users/sandeepsingh/.bash_profile",
+		"/Users/sandeepsingh/js/phaser/resources/tutorials/02 Making your first game/part8.html",
+		"/Users/sandeepsingh/js/phaser/resources/tutorials/02 Making your first game/part6.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"elm",
+			"eleme",
+			"search",
+			"filter",
+			"mail",
+			"display_name",
+			"plan",
+			".get('/workout",
+			"uuid",
+			"label",
+			"/workout",
+			"image",
+			"null",
+			"/workout",
+			"minutes",
+			"viewWork",
+			"loadWork",
+			".load",
+			"TrainerCtr",
+			"treeCtr",
+			"tree",
+			"getDefau",
+			"controller(",
+			"controll",
+			"/workout",
+			"with-round",
+			".with-round",
+			"users",
+			"thumb",
+			"Bodyparts",
+			"verify",
+			"VERIFICATION_c",
+			"VERIFICATION_",
+			"VERIFI",
+			"verify",
+			"msg = ",
+			"path.con",
+			"sendMail",
+			"null",
+			"thumb",
+			"/workout/",
+			"/workout",
+			"uploads",
+			"mequips",
+			"_loadWorkout2",
+			"main_equipments",
+			"equip",
+			"trainer_id",
+			"body",
+			"no_photo.png",
+			"no-p",
+			"no_p",
+			"no-p",
+			"cover",
+			".type",
+			"type",
+			"Exercise",
+			"/workout",
+			"null",
+			"/workout",
+			"plansController",
+			"woapp",
+			"put('/work",
+			"this",
+			"uploads",
+			"generatePassword(5)",
+			"generatePassword(5);",
+			"user_model",
+			"norma",
+			"isUser",
+			"req.files",
+			"isTrainer",
+			"trainer_model",
+			"viewPlan",
+			"_.defaul",
+			"sendSuccess",
+			"/plan",
+			"exer",
+			"_.defaultsDeep",
+			"aw",
+			"eqp",
+			"edita",
+			"draggable-alter",
+			"se",
+			"me",
+			"_.defaults",
+			" + ' ...'",
+			"'...'",
+			"bdp",
+			"uploadFilesEx",
+			"succeeded_",
+			"uploadFiles",
+			".post",
+			"();",
+			".post",
+			"model_tp",
+			"getFile",
+			"exer",
+			".put",
+			" failed",
+			"failed",
+			"bp",
+			"bodypart",
+			"bp",
+			"exer",
+			"exercise",
+			"exer",
+			"eqip",
+			"equip",
+			"path.",
+			"height: 200px; overflow: scroll;",
+			"notify",
+			"drag",
+			"_get(",
+			"_get",
+			"stren",
+			"Workout",
+			"})();",
+			"workoutday",
+			"model_workoutday",
+			"workoutday",
+			"model_workoutday",
+			"model_workout",
+			"workout",
+			"model_workout",
+			"workout",
+			"model_workout",
+			"workout"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tusers",
+			"req.trainer_id",
+			"no_photo.jpg",
+			"generatePassword(6)",
+			"generatePassword(6);",
+			"_.defaults",
+			"_.defaultsDeep",
+			"",
+			"' ...'",
+			"max-height: 200px; overflow: scroll;",
+			"MyKoolLook",
+			"name=\"image_ids[]\"",
+			"action-buttons"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 3664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "models/admin.js",
+					"settings":
+					{
+						"buffer_size": 691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "models/workoutday.js",
+					"settings":
+					{
+						"buffer_size": 898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "models/trainerplan.js",
+					"settings":
+					{
+						"buffer_size": 799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "models/index.js",
+					"settings":
+					{
+						"buffer_size": 43545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "models/exercisestrength.js",
+					"settings":
+					{
+						"buffer_size": 751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								677,
+								677
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "copy_nutrition_plan.js",
+					"settings":
+					{
+						"buffer_size": 4915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 1.0,
+						"translation.y": 397.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true
+}

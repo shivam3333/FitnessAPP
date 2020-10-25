@@ -1,0 +1,18 @@
+<div data-include="layout" data-extract>
+	<div data-fragment="title">
+		#{root.title} | ExpressJs App with Gaikan Templates
+	</div>
+
+	<div data-fragment="head_end">
+		<link rel='stylesheet' href='/stylesheets/bootstrap.min.css'/>
+		<script src="/javascripts/angular.min.js"></script>
+		<script src="/javascripts/angular-route.min.js"></script>
+		<script src="/javascripts/app/app.js"></script>
+	</div>
+
+	<div data-fragment="content">
+		<div class="col-sm-8 col-sm-offset-2" ng-app="mainApp">
+			<div ng-view></div>
+		</div>
+	</div>
+</div>
