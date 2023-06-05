@@ -969,7 +969,7 @@ var app_certificates = {
 	        rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AAAAOCq419c:APA91bF46QGaG_Eew1SMmiwIwHQs5N4R3OZLIYZdibT0wKDGs9tFC4x7-H4mjf0hO4Az-mN4cF7BfF4KVnjwtxeVIM5GHvjUSJWSrc8AV4oxXRsOTyQqs8AgQ7fhVzAElY_1Y7TheTbG'
+	        id: ''
 	    }	
 	},
 	'5a690da90379ce6d1fed04ac': { // Tianna Gregory
@@ -980,7 +980,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AAAAr1v_4PM:APA91bEB7Xs_Y5XB31ppOvZnFru_GhNwRVSlZ0qRNcubnDeWceoMqyJY3aLsCHWBKWSWSKTsPQNSR3ujc7j0xMMv3kd9o2fAnE3o3G1jnGvtXIEXhtwyDZcirVKRlMi9uGe02heAKmsjLb9VFlGg13gpC_OOsREmxg'
+	        id: ''
 	    }	
 	},
 	'5a3c25bf34d092539e01b020': { // Holly Barker
@@ -1013,7 +1013,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AIzaSyB4VHxlDlVfDc-AyDESLP_51LWdNE9S2kw'
+	        id: ''
 	    }
 	},
 	'59e7a30ce1705864cc7cf355': { // CDC
@@ -1024,7 +1024,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AIzaSyBhbkw-RKX4lennlDRwEJlXh2120P5Qkc0'
+	        id: ''
 	    }	
 	},
 	'5aa6e4c527d727022ed0a9a8': { // Lift With Cass Martin
@@ -1035,7 +1035,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AAAAI_ytZv0:APA91bFbp5Tv1r4LgjUvcRmmQgBsAE8diwUpYlSdhXrytKwMOzMr0DoHbQLMZ2RXoX7jCHVyae3efLz3a-Qg5XE28KaoHPn15GjTC898wm3-AFpeSaXI0EspWd8TSJTzoWPR1xE0tnag'
+	        id: ''
 	    }	
 	},
 	'5a848f72c3b5c3530a8d05f1': { // Z Body
@@ -1046,7 +1046,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AIzaSyBZCViUbxMFaRoNagERmR4iz-An8eLHVE0'
+	        id: ''
 	    }	
 	},
 	'57c5310521bbac1d01aa75db': { // Fit n Thick
@@ -1057,7 +1057,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AIzaSyAKhHRMpa-NQ41eapV88e4s21IC64O_w7c'
+	        id: ''
 	    }	
 	},
 	'591c8094da9386315f51787e': { // Workouts By Gabriela
@@ -1068,7 +1068,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AIzaSyDYLnqNf5yBZXLzaP3FPgub1uR27q5XCC8'
+	        id: ''
 	    }	
 	},
 	'5a5e36168887535a6f78b521': { // Jessies Girls
@@ -1079,7 +1079,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AIzaSyD-sjdS1lVONn4GgF-XfrOR9D2d-pKRKD4'
+	        id: ''
 	    }	
 	},
 	'5ababddaecc1ec1ffbd08c30': { // Bikini Boss
@@ -1101,7 +1101,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AIzaSyDA46muw25ThjY0qILupWjdFQqsQF-tC5I'
+	        id: ''
 	    }	
 	},
 	'59e4ea0878c2ed3818c7c0de': { // Lais DeLeon
@@ -1112,7 +1112,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AIzaSyDRq41YcLQRuvdxgYgTgnD3rgXd1J7ghuU'
+	        id: ''
 	    }	
 	},
 	'5aea2440a87c277c2e2bf738': { // Curvy & Cut
@@ -1123,7 +1123,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AIzaSyAA6url0OM7s5HgRVNH_QtKma_XqCafhO0'
+	        id: ''
 	    }	
 	},
 	'5ae1efea5058a545907d5f61': { // Janna Breslin
@@ -1288,7 +1288,7 @@ var app_certificates = {
 		    rejectUnauthorized: false
 	    },
 	    gcm: {
-	        id: 'AIzaSyBjRNYVkHtoADmhyZgO0K98sa_n0hqwOP4'
+	        id: ''
 	    }
 	},
 	'5d8117da4d4a29560d7c86e0': { // Fit With Jen
